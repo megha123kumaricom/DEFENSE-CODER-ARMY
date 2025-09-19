@@ -1,0 +1,28 @@
+h1{
+    background-color: Pink;
+    height:200px;
+    width:200px;
+
+/*about border to execute border in a single line just type 
+border:10px solid green*/
+    border-width:15px;
+    border-style: dotted;
+    border-color: darkgreen;
+    padding: 10px;
+    margin:10px;
+}
+/* padding help in making distance between the word and the border in every direction up ,down,left,right*/
+
+/*margin help in making the distance between the border with the outer area in every direction */   
+
+
+
+
+/*Margin->Border->Padding->Content*/
+
+p{
+    background-color: lightpink;
+    border:10px solid green;
+    padding: 10px;
+    margin:10px;
+}
