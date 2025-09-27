@@ -1,0 +1,28 @@
+#classA{
+    background-color: red;
+    height:50px;
+    width : 300px;
+}
+#classB{
+    background-color: blue;
+    height:100px;
+    width:300px;
+}
+
+#classC{
+     background-color: red
+    ;
+    height:50px;
+    width:300px;
+}
+#circle{
+    height:75px;
+    width:75px;
+    background-color: white;
+    border-radius:50%;
+    
+    position:absolute;
+    left:125px;
+    top:75px;
+
+}
