@@ -1,0 +1,17 @@
+.container{
+    height: 400px;
+    width:400px;
+ font-size: 50px;
+    background-color:red ;
+    box-shadow: 10px 10px 3px white;
+}
+/*@media screen  and (max-width:900px){
+    .container{
+        height:200px;
+        width:200px;
+        font-size: 20px;
+        background-color: blue;
+    }
+    
+}*/
+/*media screen help in adjusting the content on the screen based on different display*/
